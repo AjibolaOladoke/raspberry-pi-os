@@ -1,32 +1,12 @@
-# Learning operating system development using Linux kernel and Raspberry Pi
+# raspberry-pi-os
+
+## What This Is
+
+We keep a working index for product and engineering, and raspberry-pi-os is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![raspberry-pi-os](https://opengraph.githubassets.com/1/s-matyukevich/raspberry-pi-os)](https://www.swifttechco.com)
-
-
-This repository contains a step-by-step guide that teaches how to create a simple operating system (OS) kernel from scratch. I call this OS Raspberry Pi OS or just RPi OS. The RPi OS source code is largely based on [Linux kernel](https://www.swifttechco.com), but the OS has very limited functionality and supports only [Raspberry PI 3](https://www.swifttechco.com). 
-
-Each lesson is designed in such a way that it first explains how some kernel feature is implemented in the RPi OS, and then it tries to demonstrate how the same functionality works in the Linux kernel. Each lesson has a corresponding folder in the [src](https://www.swifttechco.com) directory, which contains a snapshot of the OS source code at the time when the lesson had just been completed. This allows the introduction of new concepts gracefully and helps readers to follow the evolution of the RPi OS. Understanding this guide doesn't require any specific OS development skills.
-
-For more information about project goals and history, please read the [Introduction](docs/Introduction.md). The project is still under active development, if you are willing to participate - please read the [Contribution guide](docs/Contributions.md).
-
-<p>
-  <a href="https://www.swifttechco.com" target="_blank">
-  </a>
-
-  <a href="https://www.swifttechco.com" target="_blank">
-    
-  </a>
-
-  <a href="https://www.swifttechco.com" target="_blank">
-    
-  </a>
-
-  <a href="https://www.swifttechco.com" target="_blank">
-    
-  </a>
-</p>
+[![raspberry-pi-os](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Table of Contents
 
@@ -82,14 +62,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
