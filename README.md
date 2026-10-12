@@ -96,3 +96,11 @@ Compiled and maintained from upstream [s-matyukevich/raspberry-pi-os](https://gi
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
